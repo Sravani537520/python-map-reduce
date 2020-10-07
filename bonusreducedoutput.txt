@@ -1,5 +1,3 @@
-9971.479999999996	Computers
-9271.41	Toys
 13678.9	Sporting Goods
 13642.009999999997	Men's Clothing
 13170.009999999998	Women's Clothing
